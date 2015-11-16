@@ -1,5 +1,5 @@
 applications:
-- disk_quota: 12M
+- disk_quota: 128M
   host: agile-intro-ic2s2015
   name: agile-intro-ic2s2015
   path: .
