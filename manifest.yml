@@ -1,0 +1,7 @@
+applications:
+- disk_quota: 12M
+  host: agile-intro-ic2s2015
+  name: agile-intro-ic2s2015
+  path: .
+  instances: 1
+  memory: 64M
