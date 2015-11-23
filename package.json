@@ -1,5 +1,5 @@
 {
-  "name": "agile-intro-ic2s2015",
+  "name": "agile-intro-faj2015",
   "version": "0.0.1",
   "description": "nodejs app for Bluemix",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alanbraz/agile-intro-ic2s2015.git"
+    "url": "https://github.com/alanbraz/agile-intro-faj2015.git"
   },
   "author": {
     "name": "Alan Braz",
